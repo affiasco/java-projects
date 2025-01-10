@@ -1,0 +1,5 @@
+com/aff/ecommerce/entity/ProductCategory.class
+com/aff/ecommerce/entity/Product.class
+com/aff/ecommerce/dao/ProductRepository.class
+com/aff/ecommerce/dao/ProductCategoryRepository.class
+com/aff/ecommerce/EcommerceApplication.class
