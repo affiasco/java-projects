@@ -5,9 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6076e96-45b5-426e-888a-f5d0d21b5d7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_common.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_common_http.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_common_http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_platform-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_platform-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/@angular_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-3BTKSJZA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-3BTKSJZA.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-HGPJXZC2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-HGPJXZC2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-J62NR7L4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-J62NR7L4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-OFWKICHD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-OFWKICHD.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-RP6B7MXH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/chunk-RP6B7MXH.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/rxjs_operators.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/.angular/cache/19.0.7/angular-ecommerce/vite/deps/rxjs_operators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/components/product-list/product-list-table.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/components/product-list/product-list-table.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/components/product-list/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/components/product-list/product-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/dao/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/dao/ProductCategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/dao/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/components/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/src/app/components/product-list/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular-ecommerce/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular-ecommerce/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/EcommerceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/EcommerceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aff/ecommerce/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aff/ecommerce/EcommerceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aff/ecommerce/EcommerceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aff/ecommerce/config/RestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aff/ecommerce/config/RestConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aff/ecommerce/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aff/ecommerce/entity/Product.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +55,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2rJs06mc0BB3WG2UfW7TzI1m9ez" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,8 +71,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.EcommerceApplication.executor": "Run",
-    "git-widget-placeholder": "01-version-ecommerce",
+    "git-widget-placeholder": "02-version-ecommerce",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/andrewfiasco/source/java-projects/e-commerce-app",
     "node.js.detected.package.eslint": "true",
@@ -80,7 +111,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736288285906</updated>
-      <workItem from="1736288287475" duration="12454000" />
+      <workItem from="1736288287475" duration="18906000" />
+      <workItem from="1736724807552" duration="447000" />
     </task>
     <servers />
   </component>
